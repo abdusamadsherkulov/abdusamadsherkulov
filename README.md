@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdusamadsherkulov
 - 👀 I’m interested in computer science and front-end development
-- 🌱 I’m currently seeking for internship
+- 🌱 I’m currently seeking for a job
 - 📫 How to reach me g-mail: abdusamadsherkulov@gmail.com  telegram: t.me/@abdusamadsherkulov
 
 <!---
